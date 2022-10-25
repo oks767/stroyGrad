@@ -1380,14 +1380,12 @@ a.scrolltotop-btn:before {
   font-family: "IBM";
   color: #000;
   font-weight: 600;
-  font-size: 22px;
+  font-size: 23px;
   width: 320px;
 }
-
 .contacts__info {
   width: 320px;
 }
-
 .contacts__phone {
   margin-top: 7px;
 }
